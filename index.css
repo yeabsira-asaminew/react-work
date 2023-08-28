@@ -1,0 +1,12 @@
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    display: flexbox;
+    text-align: center;
+    text-transform: capitalize;
+    color: darkseagreen;
+   background-color: lightblue;
+
+
+}
